@@ -2,7 +2,8 @@
 MSc in ⟨Computer Science⟩ The University of Bath ⟨2021-2022⟩
 by Peiwen Chi
 
-<img width="1516" alt="Screenshot 2023-07-04 at 17 24 35" src="https://github.com/Peiwen0712/Facial-Segmentation-For-Style-Transfer-Using-Neural-Networks/assets/90221867/991dfa44-3d51-4ab8-aefd-f1ab70f1690f">
+<img width="1508" alt="Screenshot 2023-07-04 at 17 25 20" src="https://github.com/Peiwen0712/Facial-Segmentation-For-Style-Transfer-Using-Neural-Networks/assets/90221867/8b82bf50-97ed-4231-8832-39854fd7f6cd">
+
 
 
 ## Dependencies
