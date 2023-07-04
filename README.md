@@ -1,7 +1,8 @@
 # Facial-Segmentation-For-Style-Transfer-Using-Neural-Networks
-MSc Project
-# Facial Segmentation For Style Transfer Using Neural Networks
+MSc in ⟨Computer Science⟩ The University of Bath ⟨2021-2022⟩
 by Peiwen Chi
+
+<img width="1515" alt="Screenshot 2023-07-04 at 17 23 46" src="https://github.com/Peiwen0712/Facial-Segmentation-For-Style-Transfer-Using-Neural-Networks/assets/90221867/1151cb04-7583-4b22-9c30-c6958e63bd94">
 
 
 ## Dependencies
